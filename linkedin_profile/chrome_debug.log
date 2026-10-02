@@ -1,0 +1,91 @@
+[352:28740:0910/145446.899:INFO:components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc:206] No machine level policy manager exists.
+[28716:26412:0910/145447.317:INFO:third_party\webrtc\rtc_base\cpu_info.cc:75] Available number of cores: 8
+[22192:5436:0910/145447.330:INFO:third_party\webrtc\rtc_base\cpu_info.cc:75] Available number of cores: 8
+[12024:8672:0910/145447.573:VERBOSE1:components\viz\service\main\viz_main_impl.cc:86] VizNullHypothesis is disabled (not a warning)
+[17992:26440:0910/145448.074:INFO:third_party\webrtc\rtc_base\cpu_info.cc:75] Available number of cores: 8
+[9144:26592:0910/145448.425:INFO:third_party\webrtc\rtc_base\cpu_info.cc:75] Available number of cores: 8
+[29264:29408:0910/145452.681:INFO:third_party\webrtc\rtc_base\cpu_info.cc:75] Available number of cores: 8
+[17992:28780:0910/145452.845:INFO:third_party\blink\renderer\modules\peerconnection\peer_connection_dependency_factory.cc:924] Running WebRTC with a combined Network and Worker thread.
+[17992:28780:0910/145452.845:INFO:third_party\webrtc\media\engine\webrtc_voice_engine.cc:477] WebRtcVoiceEngine::WebRtcVoiceEngine
+[17992:10708:0910/145452.846:INFO:third_party\webrtc\media\engine\webrtc_voice_engine.cc:499] WebRtcVoiceEngine::Init
+[17992:10708:0910/145452.846:INFO:third_party\webrtc\media\engine\webrtc_voice_engine.cc:602] WebRtcVoiceEngine::ApplyOptions: AudioOptions {aec: 1, agc: 1, ns: 1, hf: 1, swap: 0, audio_jitter_buffer_max_packets: 200, audio_jitter_buffer_fast_accelerate: 0, audio_jitter_buffer_min_delay_ms: 0, }
+[352:28740:0910/145452.901:INFO:CONSOLE:2] "Error", source: https://client.protechts.net/PXdOjV695v/main.min.js (2)
+[17992:28780:0910/145453.853:INFO:third_party\webrtc\media\base\codec.cc:394] Explicitly added H264 constrained baseline to list of supported formats.
+[17992:10708:0910/145453.853:INFO:third_party\webrtc\pc\peer_connection_factory.cc:411] Using default network controller factory
+[17992:10708:0910/145453.853:INFO:third_party\webrtc\modules\pacing\bitrate_prober.cc:54] Bandwidth probing enabled, set to inactive
+[17992:10708:0910/145453.853:INFO:third_party\webrtc\modules\remote_bitrate_estimator\transport_sequence_number_feedback_generator.cc:52] Maximum interval between transport feedback RTCP messages: 250 ms
+[17992:10708:0910/145453.853:INFO:third_party\webrtc\modules\remote_bitrate_estimator\aimd_rate_control.cc:88] Using aimd rate control with back off factor 0.85
+[17992:10708:0910/145453.853:INFO:third_party\webrtc\modules\remote_bitrate_estimator\remote_bitrate_estimator_single_stream.cc:59] RemoteBitrateEstimatorSingleStream: Instantiating.
+[17992:28780:0910/145453.855:INFO:third_party\webrtc\media\base\codec.cc:394] Explicitly added H264 constrained baseline to list of supported formats.
+[17992:10708:0910/145453.856:INFO:third_party\webrtc\rtc_base\openssl_key_pair.cc:36] Making key pair
+[17992:10708:0910/145453.856:INFO:third_party\webrtc\rtc_base\openssl_key_pair.cc:89] Returning key pair
+[17992:10708:0910/145453.856:INFO:third_party\webrtc\rtc_base\boringssl_certificate.cc:186] Making certificate for WebRTC
+[17992:10708:0910/145453.856:INFO:third_party\webrtc\rtc_base\boringssl_certificate.cc:242] Returning certificate
+[17992:10708:0910/145453.866:INFO:third_party\webrtc\p2p\base\p2p_transport_channel.cc:552] Set backup connection ping interval to 25000 milliseconds.
+[17992:10708:0910/145453.866:INFO:third_party\webrtc\p2p\base\p2p_transport_channel.cc:561] Set ICE receiving timeout to 2500 milliseconds
+[17992:10708:0910/145453.866:INFO:third_party\webrtc\p2p\base\p2p_transport_channel.cc:568] Set ping most likely connection to 0
+[17992:10708:0910/145453.866:INFO:third_party\webrtc\p2p\base\p2p_transport_channel.cc:575] Set stable_writable_connection_ping_interval to 2500
+[17992:10708:0910/145453.866:INFO:third_party\webrtc\p2p\base\p2p_transport_channel.cc:588] Set presume writable when fully relayed to 0
+[17992:10708:0910/145453.866:INFO:third_party\webrtc\p2p\base\p2p_transport_channel.cc:606] Set regather_on_failed_networks_interval to 300000
+[17992:10708:0910/145453.866:INFO:third_party\webrtc\p2p\base\p2p_transport_channel.cc:613] Set receiving_switching_delay to 1000
+[17992:10708:0910/145453.866:INFO:third_party\webrtc\pc\jsep_transport_controller.cc:1165] Creating DtlsSrtpTransport.
+[17992:10708:0910/145453.866:INFO:third_party\webrtc\pc\dtls_srtp_transport.cc:72] Setting RTP Transport on 0 transport 0x12a40ae6c280
+[17992:10708:0910/145453.866:INFO:third_party\webrtc\p2p\base\p2p_transport_channel.cc:486] Set ICE ufrag: 3PBd pwd: X41ZCTMOO0AFFekRhOxgZ/or on transport 0
+[17992:28780:0910/145453.866:INFO:third_party\webrtc\pc\peer_connection.cc:2120] Creating data channel, mid=0
+[17992:28780:0910/145453.866:INFO:third_party\webrtc\pc\sdp_offer_answer.cc:3097] Session: 1882959991235410283 Old state: stable New state: have-local-offer
+[17992:10708:0910/145453.868:INFO:third_party\webrtc\p2p\client\basic_port_allocator.cc:370] Start getting ports with turn_port_prune_policy 0
+[17992:10708:0910/145453.902:INFO:third_party\webrtc\p2p\client\basic_port_allocator.cc:810] Allocate ports on any any 
+[17992:10708:0910/145453.902:INFO:third_party\webrtc\p2p\client\basic_port_allocator.cc:900] Network manager has started
+[17992:10708:0910/145453.902:INFO:third_party\webrtc\p2p\client\basic_port_allocator.cc:1409] Net[any:0.0.0.x/0:Wildcard:id=0]: Allocation Phase=Udp
+[17992:10708:0910/145453.902:INFO:third_party\webrtc\p2p\base\port.cc:149] Port[545ad00::1:0:host:Net[any:0.0.0.x/0:Wildcard:id=0]]: Port created with network cost 999
+[17992:10708:0910/145453.902:INFO:third_party\webrtc\p2p\client\basic_port_allocator.cc:1495] AllocationSequence: UDPPort will be handling the STUN candidate generation.
+[17992:10708:0910/145453.902:INFO:third_party\webrtc\p2p\client\basic_port_allocator.cc:923] Adding allocated port for 0
+[17992:10708:0910/145453.902:INFO:third_party\webrtc\p2p\client\basic_port_allocator.cc:943] Port[545ad00:0:1:0:host:Net[any:0.0.0.x/0:Wildcard:id=0]]: Added port to allocator
+[17992:10708:0910/145453.902:INFO:third_party\webrtc\p2p\client\basic_port_allocator.cc:1409] Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]: Allocation Phase=Udp
+[17992:10708:0910/145453.902:INFO:third_party\webrtc\p2p\base\port.cc:149] Port[5464d00::1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: Port created with network cost 999
+[17992:10708:0910/145453.902:INFO:third_party\webrtc\p2p\client\basic_port_allocator.cc:1495] AllocationSequence: UDPPort will be handling the STUN candidate generation.
+[17992:10708:0910/145453.902:INFO:third_party\webrtc\p2p\client\basic_port_allocator.cc:923] Adding allocated port for 0
+[17992:10708:0910/145453.902:INFO:third_party\webrtc\p2p\client\basic_port_allocator.cc:943] Port[5464d00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: Added port to allocator
+[28348:29260:0910/145453.947:INFO:third_party\webrtc\rtc_base\cpu_info.cc:75] Available number of cores: 8
+[17992:10708:0910/145453.959:INFO:third_party\webrtc\p2p\client\basic_port_allocator.cc:1409] Net[any:0.0.0.x/0:Wildcard:id=0]: Allocation Phase=Relay
+[17992:10708:0910/145453.959:INFO:third_party\webrtc\p2p\client\basic_port_allocator.cc:1409] Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]: Allocation Phase=Relay
+[17992:10708:0910/145454.021:INFO:third_party\webrtc\p2p\client\basic_port_allocator.cc:1409] Net[any:0.0.0.x/0:Wildcard:id=0]: Allocation Phase=Tcp
+[17992:10708:0910/145454.021:INFO:third_party\webrtc\p2p\base\port.cc:149] Port[c0ffc00::1:0:host:Net[any:0.0.0.x/0:Wildcard:id=0]]: Port created with network cost 999
+[17992:10708:0910/145454.021:INFO:third_party\webrtc\p2p\client\basic_port_allocator.cc:923] Adding allocated port for 0
+[17992:10708:0910/145454.021:INFO:third_party\webrtc\p2p\client\basic_port_allocator.cc:943] Port[c0ffc00:0:1:0:host:Net[any:0.0.0.x/0:Wildcard:id=0]]: Added port to allocator
+[17992:10708:0910/145454.021:INFO:third_party\webrtc\p2p\base\tcp_port.cc:184] Port[c0ffc00:0:1:0:host:Net[any:0.0.0.x/0:Wildcard:id=0]]: Not listening due to firewall restrictions.
+[17992:10708:0910/145454.021:INFO:third_party\webrtc\p2p\client\basic_port_allocator.cc:1409] Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]: Allocation Phase=Tcp
+[17992:10708:0910/145454.021:INFO:third_party\webrtc\p2p\base\port.cc:149] Port[ba0c000::1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: Port created with network cost 999
+[17992:10708:0910/145454.021:INFO:third_party\webrtc\p2p\client\basic_port_allocator.cc:923] Adding allocated port for 0
+[17992:10708:0910/145454.021:INFO:third_party\webrtc\p2p\client\basic_port_allocator.cc:943] Port[ba0c000:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: Added port to allocator
+[17992:10708:0910/145454.021:INFO:third_party\webrtc\p2p\base\tcp_port.cc:184] Port[ba0c000:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: Not listening due to firewall restrictions.
+[17992:10708:0910/145454.069:INFO:third_party\webrtc\p2p\base\stun_port.cc:446] Port[545ad00:0:1:0:host:Net[any:0.0.0.x/0:Wildcard:id=0]]: Starting STUN host lookup for stun.l.google.com:19302
+[17992:10708:0910/145454.069:INFO:third_party\webrtc\p2p\base\stun_port.cc:446] Port[5464d00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: Starting STUN host lookup for stun.l.google.com:19302
+[20648:18388:0910/145454.091:WARNING:net\dns\host_resolver_dns_task.cc:957] Address list empty after RFC3484 sort
+[20648:18388:0910/145454.099:ERROR:services\network\p2p\socket_manager.cc:137] Failed to resolve address for stun.l.google.com., errorcode: -105
+[17992:10708:0910/145454.597:INFO:third_party\webrtc\p2p\client\basic_port_allocator.cc:960] Port[c0ffc00:0:1:0:host:Net[any:0.0.0.x/0:Wildcard:id=0]]: Gathered candidate: Cand[:676675663:1:tcp:1509957375:e3939ae4-ab6a-4f13-9e7e-bbe040144ddd.local:9:host::0:3PBd:X41ZCTMOO0AFFekRhOxgZ/or:0:999:0]
+[17992:10708:0910/145454.597:INFO:third_party\webrtc\p2p\client\basic_port_allocator.cc:993] Port[c0ffc00:0:1:0:host:Net[any:0.0.0.x/0:Wildcard:id=0]]: Port ready.
+[17992:10708:0910/145454.597:INFO:third_party\webrtc\p2p\client\basic_port_allocator.cc:1004] Discarding candidate because it doesn't match filter.
+[17992:10708:0910/145454.597:INFO:third_party\webrtc\p2p\client\basic_port_allocator.cc:1105] Port[c0ffc00:0:1:0:host:Net[any:0.0.0.x/0:Wildcard:id=0]]: Port completed gathering candidates.
+[17992:10708:0910/145454.627:INFO:third_party\webrtc\p2p\client\basic_port_allocator.cc:960] Port[ba0c000:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: Gathered candidate: Cand[:132556936:1:tcp:1509949951:ea763720-64f4-4f3b-a269-8e5b066889cb.local:9:host::0:3PBd:X41ZCTMOO0AFFekRhOxgZ/or:0:999:0]
+[17992:10708:0910/145454.628:INFO:third_party\webrtc\p2p\client\basic_port_allocator.cc:993] Port[ba0c000:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: Port ready.
+[17992:10708:0910/145454.628:INFO:third_party\webrtc\p2p\client\basic_port_allocator.cc:1004] Discarding candidate because it doesn't match filter.
+[17992:10708:0910/145454.628:INFO:third_party\webrtc\p2p\client\basic_port_allocator.cc:1105] Port[ba0c000:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: Port completed gathering candidates.
+[17992:10708:0910/145454.628:INFO:third_party\webrtc\p2p\client\basic_port_allocator.cc:960] Port[545ad00:0:1:0:host:Net[any:0.0.0.x/0:Wildcard:id=0]]: Gathered candidate: Cand[:279522543:1:udp:2113937151:5ee0fe7b-f214-4cb5-8e03-cded696b5da7.local:54913:host::0:3PBd:X41ZCTMOO0AFFekRhOxgZ/or:0:999:0]
+[17992:10708:0910/145454.628:INFO:third_party\webrtc\p2p\client\basic_port_allocator.cc:993] Port[545ad00:0:1:0:host:Net[any:0.0.0.x/0:Wildcard:id=0]]: Port ready.
+[17992:10708:0910/145454.628:INFO:third_party\webrtc\p2p\client\basic_port_allocator.cc:960] Port[5464d00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: Gathered candidate: Cand[:2032749072:1:udp:2113929727:ea763720-64f4-4f3b-a269-8e5b066889cb.local:54914:host::0:3PBd:X41ZCTMOO0AFFekRhOxgZ/or:0:999:0]
+[17992:10708:0910/145454.628:INFO:third_party\webrtc\p2p\client\basic_port_allocator.cc:993] Port[5464d00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: Port ready.
+[17992:10708:0910/145454.628:INFO:third_party\webrtc\p2p\client\basic_port_allocator.cc:1004] Discarding candidate because it doesn't match filter.
+[17992:10708:0910/145454.628:WARNING:third_party\webrtc\p2p\base\stun_port.cc:457] Port[5464d00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[17992:10708:0910/145454.628:INFO:third_party\webrtc\p2p\client\basic_port_allocator.cc:1105] Port[5464d00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: Port completed gathering candidates.
+[17992:10708:0910/145454.867:INFO:third_party\webrtc\p2p\client\basic_port_allocator.cc:960] Port[545ad00:0:1:0:host:Net[any:0.0.0.x/0:Wildcard:id=0]]: Gathered candidate: Cand[:1242897086:1:udp:1677729535:190.71.179.x:54913:srflx:10.20.26.x:54913:3PBd:X41ZCTMOO0AFFekRhOxgZ/or:0:999:0]
+[17992:10708:0910/145454.867:INFO:third_party\webrtc\p2p\client\basic_port_allocator.cc:1105] Port[545ad00:0:1:0:host:Net[any:0.0.0.x/0:Wildcard:id=0]]: Port completed gathering candidates.
+[17992:10708:0910/145454.867:INFO:third_party\webrtc\p2p\client\basic_port_allocator.cc:1179] All candidates gathered for 0:1:0
+[17992:10708:0910/145454.867:INFO:third_party\webrtc\p2p\base\p2p_transport_channel.cc:970] P2PTransportChannel: 0, component 1 gathering complete
+[23280:29292:0910/145455.815:INFO:third_party\webrtc\rtc_base\cpu_info.cc:75] Available number of cores: 8
+[352:28740:0910/145455.900:WARNING:chrome\browser\media\prefs\capture_device_ranking.h:255] Can't initialize the value of media.audio_input.user_preference_ranking because media.default_audio_capture_device isn't registered or is empty
+[352:28740:0910/145455.900:WARNING:chrome\browser\media\prefs\capture_device_ranking.h:255] Can't initialize the value of media.video_input.user_preference_ranking because media.default_video_capture_Device isn't registered or is empty
+[28272:28588:0910/145456.391:INFO:third_party\webrtc\rtc_base\cpu_info.cc:75] Available number of cores: 8
+[17528:29632:0910/145501.240:INFO:third_party\webrtc\rtc_base\cpu_info.cc:75] Available number of cores: 8
+[20648:28020:0910/145503.300:WARNING:net\extras\sqlite\sqlite_persistent_store_backend_base.cc:176] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:226 to client_task_runner_.
+[20648:28020:0910/145503.300:WARNING:net\extras\sqlite\sqlite_persistent_store_backend_base.cc:176] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:226 to client_task_runner_.
