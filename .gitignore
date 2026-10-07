@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+.idea/
+negocios.db
+linkedin_profile/
+linkedin_bot.py
